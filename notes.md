@@ -64,6 +64,6 @@ Some examples of what you can:
 
 You can download it here --> https://github.com/aparrish/pincelate
 
-Allison published a piece called "Compasses" made with pincelate in a chapbook.a
+Allison published a piece called "Compasses" made with pincelate in a chapbook.
  
  
