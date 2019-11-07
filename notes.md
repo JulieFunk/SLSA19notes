@@ -37,4 +37,33 @@ Finally, we had a "harvest" debrief where we discussed the power of devotion in 
 **Pincelate: Tools and Machine Learning Models for Sound Poetry by Allison Parrish**
 
 ABSTRACT. Matching a word's sound to its spelling is more than just a set of rote grade school rules—it's a renewable source for creative expression. I present Pincelate: a system for producing expressive non-standard spellings of English words by "guiding" the probabilities of the decoding step in paired orthography-to-phonology and phonology-to-orthography sequence-to-sequence neural networks. Alongside a demonstration of the system's capabilities (automatic orthographically-constrained respellings; respelling with "hijacked" phonetics; phonetically-constrained nonsense word generation; "autozaumnification" with phonetic resizing) I offer a quantitative evaluation of the system's output with metrics of phonetic and orthography plausibility. I contextualize the tool both as a way to approach the operations of sound poetry in the poetic avant-garde and as a natural extension of my own work in this genre.
-  
+
+Project is machine learning model that spells and outputs words -
+
+Looked at Lewis Carrol's "Jabberwocky" for examples of nonesense verse - we assign some conventional meaning to nonesense words in a way that allows us interpret and communicate non-vocabulary.
+
+IMAGE: [Playing with words](IMG_2017.JPG)
+
+This is seen in the synesthesia of the [kiki/bouba effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect). Which shape is named kiki and which is named bouba?
+ 
+IMAGE: [Kiki or bouba](1200px-Booba-Kiki.svg.png)
+ 
+ Allison also talked about [Zaumification](https://en.wikipedia.org/wiki/Zaum) as "transrational" ways of listening to sound.
+ 
+ **Those red squiggly lines = misspelled?** They are SPELLED, there is no such thing as misspelled.
+ 
+ 
+Pincelate: machine learning model for spelling and sounding out English-type words. It works through sequence to sequence (s2s) processing which takes grapheme (inputs) and applying phoneme vectors (nasal, rounded mouth, no ending) and outputting the new spellings as graphemes. 
+
+IMAGE: [s2s](IMG_2018.JPG)
+
+Some examples of what you can:
+- denoise from garbble
+- add noise to words = make garble
+- add a "heb colb" (head cold)
+
+You can download it here --> https://github.com/aparrish/pincelate
+
+Allison published a piece called "Compasses" made with pincelate in a chapbook.a
+ 
+ 
