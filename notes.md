@@ -42,20 +42,20 @@ Project is machine learning model that spells and outputs words -
 
 Looked at Lewis Carrol's "Jabberwocky" for examples of nonesense verse - we assign some conventional meaning to nonesense words in a way that allows us interpret and communicate non-vocabulary.
 
-IMAGE: [Playing with words](IMG_2017.JPG)
+![Playing with words](IMG_2017.JPG)
 
 This is seen in the synesthesia of the [kiki/bouba effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect). Which shape is named kiki and which is named bouba?
+  
+![Kiki or bouba](1200px-Booba-Kiki.svg.png)
  
-IMAGE: [Kiki or bouba](1200px-Booba-Kiki.svg.png)
- 
- Allison also talked about [Zaumification](https://en.wikipedia.org/wiki/Zaum) as "transrational" ways of listening to sound.
+ Allison also talked about [Zaum](https://en.wikipedia.org/wiki/Zaum) as "transrational" ways of listening to sound. We had a Russian-speaking audience member who told us that "zaum" is a "real" Russian word which means to be pretentiously smart/pedantic.
  
  **Those red squiggly lines = misspelled?** They are SPELLED, there is no such thing as misspelled.
  
  
 Pincelate: machine learning model for spelling and sounding out English-type words. It works through sequence to sequence (s2s) processing which takes grapheme (inputs) and applying phoneme vectors (nasal, rounded mouth, no ending) and outputting the new spellings as graphemes. 
 
-IMAGE: [s2s](IMG_2018.JPG)
+![s2s](IMG_2018.JPG)
 
 Some examples of what you can:
 - denoise from garbble
