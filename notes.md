@@ -1,6 +1,6 @@
-## Thursday, November 7 ##
+# Thursday, November 7 #
 
-**WORKSHOP: Compost Devotional Ritual by Aja Rose Bond**
+## WORKSHOP: Compost Devotional Ritual by Aja Rose Bond ##
 
 Aja wished we did not take pictures during the ritual.
 
@@ -31,5 +31,10 @@ After, we each participated in adding to the compost ritual by mixing from some 
 Finally, we had a "harvest" debrief where we discussed the power of devotion in ritual and the ways that compost can ground us in our situatedness in ecology, humanity.
 
 ---
-  
+
+## PANEL: Experimental Engagements with Text ##
+
+**Pincelate: Tools and Machine Learning Models for Sound Poetry by Allison Parrish**
+
+ABSTRACT. Matching a word's sound to its spelling is more than just a set of rote grade school rules—it's a renewable source for creative expression. I present Pincelate: a system for producing expressive non-standard spellings of English words by "guiding" the probabilities of the decoding step in paired orthography-to-phonology and phonology-to-orthography sequence-to-sequence neural networks. Alongside a demonstration of the system's capabilities (automatic orthographically-constrained respellings; respelling with "hijacked" phonetics; phonetically-constrained nonsense word generation; "autozaumnification" with phonetic resizing) I offer a quantitative evaluation of the system's output with metrics of phonetic and orthography plausibility. I contextualize the tool both as a way to approach the operations of sound poetry in the poetic avant-garde and as a natural extension of my own work in this genre.
   
