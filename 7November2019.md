@@ -6,7 +6,7 @@ Aja wished we did not take pictures during the ritual.
 
 *“Has anyone here ever seen a steaming hot ass heap of compost before?”*
 
-She walked us through a ritual in which we grounded ourselves in ideas of life, death, and never-lived through ontologies of animism 
+She walked us through a ritual in which we grounded ourselves in ideas of life, death, and never-lived through ontologies of animism.
 
 *  We discussed the ways that compost remediate the ecology
 
@@ -26,9 +26,11 @@ After, we each participated in adding to the compost ritual by mixing from some 
   * water
   * mother compost
   
-  Aja will take the mixture back to her home compost so as to not introduce new microbiomes to Irvine.
+Aja will take the mixture back to her home compost so as to not introduce new microbiomes to Irvine.
   
 Finally, we had a "harvest" debrief where we discussed the power of devotion in ritual and the ways that compost can ground us in our situatedness in ecology, humanity.
+
+Aja also collaborates with the group [Amici Mortem](https://amicimortem.wordpress.com/)
 
 ---
 
@@ -60,3 +62,4 @@ You can download it here --> https://github.com/aparrish/pincelate
 Allison published a piece called "Compasses" made with pincelate in a chapbook.
  
  ---
+
