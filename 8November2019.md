@@ -65,3 +65,55 @@ Katherine traces a short history of at-home workout media throughout 20th C. (e.
 Foucault and the Gym: *Discipline and Punishment* Soldiering as habit-forming to produce a certain kind of "fit" subject - must understand the subject as "project." 
 
 Neoliberalism in fitness technology takes this and mandates you must be mentally fit to be physically fit, consumer products - the "smarter the better" will allow one to achieve this.
+
+---
+
+## PANEL: Bio Artists ##	
+
+**Cross-Border Interludes: experimental practices in socially-engaged environmental art by Maria Michails**
+
+Looks at southeastern Saskatchewan crude oil industry compares to Albany, NY's petroleum storage area that runs through low-income, majority black neighbourhood. Trains and trucks running through neighbourhood produced emissions that made locals sick.
+
+Southeastern SK as pastoral environment appears very different from urban Albany, but workers in mining and oil industries also suffer from disease caused by air pollution.
+
+Citizen science - Louisiana Bucket Brigrade teaches citizens to measure air quality through non-expert field data collection. Citizen-led monitoring (emerges from DIY cultures) often has immediate readings (no lab work) and sooner incites political action.
+
+*Projects:*
+
+*Citizen-sensing rover project* -- decorated air monitors made with kids using an Arduino with cell shield and low cost dust sensors on RC vehicles in "Rover Walk"
+
+* residents were primary source for informing local politicians which areas needed the most attention and what solutions would be best
+
+*DIY Aerial Mapping* -- used balloons 
+
+*Oral Histories* -- used to engage elders in the Indigenous community, residents of Albany, and residents of southeastern SK to gain insights on the changes to the rural landscape and land claims, effects crude oil trains and truck traffic. Measures peoples relation to the land.
+
+---
+
+**Experiments in Eco-poiesis: The Long-term Praxis of herman de vries by Wood Roberdeau**
+
+Herman de vries - art understood as the full objectivation of receiving and producing in the anthropocene
+
+"From Earth" works created from various material, organic deposits
+
+---
+
+**Forgetting and Remembering the Materiality of the Archives by Dani Stuchel**
+
+TWITTER: [@plantarchives](https://twitter.com/plantarchives)
+
+Plant Archives - Dani placed photograph in faux terra cotta planter with a prickly pear cactus to observe the decomposition of the photograph - chose an "impersonal" second-hand photo for experiment
+
+* twice, after attempting to find the suitable spot to keep the planter, Dani moved it to a "better" spot upon reflection
+* Dani forgot to attend to the plants, or to keep research notes despite having planned this experiment thoroughly
+
+Looks at Freud's *forgetting* as an obscure motive to displace something unwanted
+
+* *Irma Harrison* is a name transcribed on the back of the photo
+* Dani found themself feeling personal connection to photograph, despite trying to choose a photo and design the experiment as "impersonal"
+
+Dani attempted to use the decayed photograph to create a cyanotype (Oct. 2019)
+
+Why destroy (or not) the photograph?
+
+* destroying by entropy, environmental damage - builds personal relation and hopeful orientation to archival matter.
