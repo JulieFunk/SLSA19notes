@@ -50,6 +50,6 @@ A cultural history of the punch card](https://www.landley.net/history/mirror/pre
 Calls these the educational equivalent of "clickbait" - not active learning, not thinking and doing or practice/praxis
 
 * Cost has been a barrier to more effective forms of student learning - discussion based courses need to be smaller, need more space, more instructors, more time
-* this "interactive" technologies promise to be more time-effective while raising their engagement and GPA - unfounded
+* This "interactive" technologies promise to be more time-effective while raising their engagement and GPA - unfounded
 * Also displaces cost onto the student to buy the technology -- iClicker about $30
 
