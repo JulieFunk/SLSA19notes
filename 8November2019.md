@@ -117,3 +117,78 @@ Dani attempted to use the decayed photograph to create a cyanotype (Oct. 2019)
 Why destroy (or not) the photograph?
 
 * destroying by entropy, environmental damage - builds personal relation and hopeful orientation to archival matter.
+
+---
+
+## PANEL: Critical Making and Executable Kits ##
+
+**I Signify the Body Electric: Making Masculinity Through Media Technology by Jason Lajoie**
+
+Critical muscle developer - developed by Jason Lajoie (support: Matt Frazer)
+
+History of muscle developers in 20th C. --> use of electricity to develop muscles as part of masculinity and masculine embodiment (*On Electricity for the Muscles* William Bankier)
+
+Bankier - the ideal physical culture of Bankier (AKA Apollo, The Scottish Hercules)
+
+Notions of masculinity are understood through and mediated by our technologies 
+
+* Electric belts - investigative tools for unlocking the secrets of "vitality"
+* Electricity thought to be essential to vitality (Galvani, Shelley's *Frankenstein*)
+
+Gendering of electricity -- women become the passive consumers of domestic electric appliance
+
+Applied Media Theory - O'Gorman - critical objects to think with - scholarship of making media used to reflect/integrate new modes of theorizing that media
+
+---
+
+**Silkworms, Spindles, and the Strange Stranger by Helen J. Burgess**
+
+Silkworms -- create ovum-shaped shelters out of silk and spittle
+Stunt spindle -- takes animal hair, grass/leaves, and spit
+
+*Helen gave us silk to pull and spin with our hands*
+
+Object Oriented Ontology -- slow media, using spindle needle and thread to engage with objects and put them in relation with one another in reflective ways - different objects have different meanings in their rhetorical situatedness
+
+Embroidery - the front: aesthetics, the back: patterns of economy of thread
+
+*Julie's notes: I'm very interested in Helen's work on silk and silkworms in relation to silk's role in the IUD, and Derrida's observation/contemplation of the silkworm in "The Animal that I Therefore Am."*
+
+---
+
+**Now: A Kit for Digital Mindfulness by Roger Whitson**
+
+*we practice 10-minute meditation*
+
+Mindfulness as Buddhism in Modernity (e.g. apps like Headspace, 10% Happier podcast) - Ann Gleig critiques these treat Buddhism as scientific and open to use and interpretation, and neoliberal consumption - colonial work
+
+---
+
+**Basket Weaving as Media Theory by Marcel O'Gorman**
+
+Book - Making Media Theory
+
+Rabbit with basket hutch - the rabbit chews a hole in the hutch to better access food and water dish - O'Gorman begins to see rabbit as a maker
+
+Looking at humans as bipedal/technological creatures - homo erectus
+
+* Tim Ingold - challenges the *homo erectus* - image of Ingold's students making baskets on a beach near Aberdeen
+* Students are crouched and continue to weave until they run out of fibre or are exhausted - practice of endurance
+* Taking a step back from the exteriorization of the appendage/inclination towards the tool as prostheses
+
+Containers are something made and used in domestic spaces - feminine spaces
+
+*Touch* by Laura U. Marks - haptics as erotics that offer ways of engaging with objects through sense/sensuality
+
+*The Queer Art of Failure* by Judith Halberstam - O'Gorman's "Crapentry"
+
+* Basket making - to create space for discourse about the act of making and making containers
+* The baskets were made at a week-long critical-making workshop at University of Guelph (DHatGuelph)
+* The baskets ended up becoming waste baskets of all
+
+Barry Ace - Ontario Indigenous artist reuses electronic parts in traditional beadwork
+
+---
+
+
+
