@@ -45,7 +45,7 @@ A cultural history of the punch card](https://www.landley.net/history/mirror/pre
 * Blackboard, D2L, Moodle
 * Online management systems for student data
 
-"Fear of public speaking (for students) trumps fear of Big Brother*
+"Fear of public speaking (for students) trumps fear of Big Brother"
 
 Calls these the educational equivalent of "clickbait" - not active learning, not thinking and doing or practice/praxis
 
