@@ -81,7 +81,7 @@ Jürgenson - "Sprechfunk mit Verstorbenen" or "Voice Transmissions with the Dece
  * Notably, Jürgenson's polyglot speech is Euro-centric
  
  *Julie's notes: How can we use the phenomenon of EVP to gain more information from a literary recording?
-[Here's and app](https://apps.apple.com/us/app/ghost-recorder/id323051651) for "ghost recording" on your phone. Not sure if it actually uses EVP or not, but I'm going to check it out*
+[Here's and app](https://apps.apple.com/us/app/ghost-recorder/id323051651) for "ghost recording" on your phone. Not sure if it actually uses EVP or not, but I'm going to check it out.*
 
  ---
 
