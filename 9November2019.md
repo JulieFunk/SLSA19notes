@@ -85,4 +85,93 @@ Jürgenson - "Sprechfunk mit Verstorbenen" or "Voice Transmissions with the Dece
 
  ---
 
+## PANEL: Intersections of Sound and Culture ##
+
+**Onomatopoeia, Sound Effects, and Experimental Disengagements of Late British Imperiality by Peter Bloom**
+
+Onomatopoeia and sound effects - explanatory note in BBC archive for radio drama "A Comedy of Danger" Richard Hughes, 1924; broadcast on the BBC
+
+Adorno - "radio voice"
+
+1931 - BBC Yearbook specifies six different types of sound effects.
+
+* Broadcasting house eigth floor designed to facilitate live recording of sound effects
+* Big Ben recording becomes the strike of the hour radio sound effect - synonomous with a culture of precision and accuracy
+* 1936 every radio broadcasting station affiliate of BBC were stocked with inventory of standard gramaphone sound effects
+* Sound recordings featured many themes like: cityscape, war and battle, laughter, screams and sneezes, animals, etc.
+
+---
+
+**The micro-particles of the human voice”: science and technology in British sound and dub poetry by Suzanne Black**
+
+Bob Cobbing [*Sockless in Sandals*](http://writing.upenn.edu/library/Cobbing-Bob_Sockless-in-Sandals_1985.pdf), p. 46 - concrete poetry
+
+["Alphabet of Fishes"](https://www.youtube.com/watch?time_continue=2&v=xgzHQs0ZiFU&feature=emb_logo)
+
+* Cobbing breaks down language into the "micro-particles" of human voice
+
+Dub Poetry: affinities of spoken word and sound poetry - but more experimental in its form
+
+---
+
+**Pitch Shift: 432 Hz Music and the Promise of a Frequency by Ruth Rosenberg**
+
+Lyndon LaRouche - advocated for musicians in Italy to no longer conform to international frequency of A=440 Hz
+
+This conversation has resurged across the internet - possible resurgence was on the Prince fan page in 2014.
+
+* Detractors critique this phenomenon to fringe movement, conspiracy, pseudo-scientific
+* Ruth Rosenberg argues that the discourse around 432 movement can be equated to advocating "music self-care"
+* Can cause vocal strain in upper register of a singer but different is nearly imperceptible to listeners
+* Apps to convert entire music library to 432 exist
+
+No unilateral justification for support of 432:
+Historical claims of legitimacy - "All classical music used to be in 432"
+
+* Tuning varied across Western countries from 1600-1880
+* Some supporters of 432 Hz claim 440 HZ is a Nazi scientific propoganda as mind control because it promotes aggression
+
+Other claims:
+
+* Schumann Resonances - claim that earth's resonance is in 432 and resonates with our bodies better, grounding in "natural vibrations"
+
+No amount of debunking can change how 432 Hz "feels" to "resonates" to its advocates. Dedicated listeners use adjectives that usually describe timbre to describe 432 and the musical effects on emotion and physical sensation:
+
+* lighter
+* deeper
+* darker
+* clearer
+* softer
+* calmer/coming
+* improves quality of life
+* feel in head, heart, gut, etc.
+
+Conversion apps claim to "purify" and strip the file of undesirable sounds from 440. Rhetoric uses toxicity diction, *clean, pure, serene, "return"* and as an environment toxin.
+
+---
+
+**Transforming the Creative Practices of Composers and Sound Designers with VirDAW: the Virtual Reality Digital Audio Workstation by Theresa Jean Tanenbaum, Vincent Olivieri, Jovia Armstrong, Jack Bueermann, Yibo Gou, Luke Falcone, Jonathan Huang, Ittai Mann, Hunter Long, Yiwei Yu and Zhonglin Liu**
+
+Presented by Theresa (Tess) Jean Tanenbaum, Vincent (Vinny) Olivieri
+
+Looking at digital sound design software - interfaces are based off of analog sound engineering hardware - Skeuomorph
+
+Asks: How does VR impact artistic practice? What are the unique properties of VR?
+
+* VR is more immersive
+* VR is more embodied
+* VR is spatial
+
+VR does not support fatigue from pointing, or finger control - thus, virtual (skeuomorphic) workstations need to be reimagined
+
+VirDAW is built around new and old buttons and widgets - experimental and inductive to find the most accessible and immersive virtual environment for sound control/design workstations (first module).
+
+Use Unity for front-end system, using the Max visual programming language as the audio backend, controlled via Open Sound Control (OSC).
+
+VirDAW also reimagines control of reverb by putting it in an actual room (second module), rather than controlling levels of "dry-/wetness," for example.
+
+"Kinetic Composition" (a third module) is used to control and hold sound through different parameters (e.g. Containers (surfaces, membranes, fields) and Triggers (e.g. pulses))
+
+---
+
 
