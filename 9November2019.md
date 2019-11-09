@@ -2,7 +2,7 @@
 
 ## PANEL: Experimental Approaches to Pedagogy Through Art and Literature ##
 
-** Rendering reality: a speculative approach to the life-world of adolescent artists by Laura Barritt **
+**Rendering reality: a speculative approach to the life-world of adolescent artists by Laura Barritt**
 
 Umwelt as life-world -- understanding the differences of perceived reality of children and adolescents in navigating and world-building
 
