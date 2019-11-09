@@ -53,3 +53,36 @@ Calls these the educational equivalent of "clickbait" - not active learning, not
 * This "interactive" technologies promise to be more time-effective while raising their engagement and GPA - unfounded
 * Also displaces cost onto the student to buy the technology -- iClicker about $30
 
+---
+
+## PANEL: Epistemic Subversion and Paranormal Practice ##
+
+**Polyglot Speech from an Other Side by Sam Stoeltje**
+
+ABSTRACT. Electronic Voice Phenomena, or EVP, refers to the anomalies or artifacts that appear in the background noise of an electronic recording. Throughout the twentieth century, the practice of combing noise for spectral signals became its own paranormal culture, even to the extent of skirting popular awareness in, for instance, the Hollywood horror film The Sixth Sense. This paper provides a brief overview of the history of EVP, with attention to its relation both to electronic media and mediations, and to alternative religious movements such as Spiritualism. The history is followed by specific theoretical attention to probably the most significant EVP text, paranormal researcher Konstantīns Raudive’s Breathrough: An Amazing Experiment in Electronic Communication with the Dead.
+
+Breakthrough consists of transcriptions of recordings featuring questions addressed to the spirits, and Raudive’s interpretation of the subsequent EVP as responses. The responses take the form of a fusion of different (European) languages; that is, a heteroglossia. An EVP-skeptic would understand this as a tactic for broadening the criteria of what constitutes a “signal” in the noise; with more languages in play, a random artifact is more likely to be interpreted as a sense-making phoneme. Alternatively, an EVP-believer might understand the heteroglossia as a natural consequence of the post-human state of spirit consciousness, untethered from single language.
+
+The paper will use these two perspectives on EVP as a point of departure for theoretical speculations on heteroglossia as an aesthetic and a politics; apophenia and pattern recognition with respect to the signal/noise distinction; and the metaphysical implications of a heteroglossic afterlife.
+
+
+Raudive’s Breathrough: An Amazing Experiment in Electronic Communication with the Dead
+
+Jürgenson - "Sprechfunk mit Verstorbenen" or "Voice Transmissions with the Deceased" -- EVP and the Necrophone - mechanical medium to "connect to the dead" - where the dead is acoustic noise
+
+* EVP is the same technology you see used in those paranormal hunter reality shows.
+* Follows a sort of Derridean *hauntology* treatment of electric "voice" in ambient sound recording
+* Jürgenson himself actually (?) believed that these voices were first aliens, then decided they must be the voice of the deceased, telling Jürgenson about the afterlife
+ 
+ How do the spirits talk to Jürgenson?
+ 
+ * Calls it "polyglot" speech - "The most significant role is played by the influence of their dimension outside time and space, a sychronicity that affords the dead the great advantage of direct perception."
+ * Jürgenson's phenomenology is informed by his conception of the "fourth dimension" - outside of space and time (inspired by Swedenborg, Christian *Pentecost*, (Acts) Tower of Babel.
+ * Notably, Jürgenson's polyglot speech is Euro-centric
+ 
+ *Julie's notes: How can we use the phenomenon of EVP to gain more information from a literary recording?
+[Here's and app](https://apps.apple.com/us/app/ghost-recorder/id323051651) for "ghost recording" on your phone. Not sure if it actually uses EVP or not, but I'm going to check it out*
+
+ ---
+
+
