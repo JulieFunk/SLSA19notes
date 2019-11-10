@@ -174,4 +174,48 @@ VirDAW also reimagines control of reverb by putting it in an actual room (second
 
 ---
 
+## PANEL: Meaning-making Practices in the Nonhuman ##
+
+**Can Computers Create Meaning? A Bio-Cyber-Semiotic Perspective by Katherine Hayles**
+
+“Meaning is made from actions and consequences“
+
+Umwelt + biosemiotics (Hoffman derives his biosemiotics from Peircen triad)
+
+The interprentant in the sign relation is significantly crucial to life forms
+- extend to ALL biological forms despite presence of “brains”
+- Sign relations are meaning making
+- BUT biosemiotics fail to see computers as cognitive, Hayles says this is a biologism
+- Computers are not autonomous but why is this a criteria for cognitive?
+- Computers evolve through human-technical relations - computers have humans to be autonomous for them
+
+Hayles proposes cybersemiosis rather than biosemiosis 
+
+Anthropolcentricism of Searle’s Chinese Room is that he imagines human actor’s understanding of meaning and sense-making is the only important perspective.
+
+What does the computer know?
+- it can anticipate through infrastructure of logic gates and executable code
+- Meaning making as consequence of anticipation
+
+Planetary Cognitive Ecology = all the interconnected, assembled cognitions are networked
+
+## PANEL: Theorizing Futurity: The Politics of the Speculative ##
+
+**Bad Venture: Elizabeth Holmes and Venture Capital Futures by Sherryl Vint**
+
+Focus on The Inventor/“Bad Blood”- movie on Elizabeth Holmes 
+
+Speculative imagination as important tool for venture capital to tell stories of the visualization of the future
+
+- Kaushik Sunder Rajan’s “venture science” and hype (aka lying, ex. Mira)
+- “Forward-looking statements”
+- Edison did this too, the focus on Holmes’ gender informs her treatment as a liar and that she never belonged in billionaire’s space
+
+Theranos part of boutique medicine (genomics)
+
+*Julie's notes: How is the narrative of consumer biohacking framed as Speculative Fiction?
+
+---
+
+
 
